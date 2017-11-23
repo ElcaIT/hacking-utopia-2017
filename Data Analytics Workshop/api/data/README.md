@@ -1,0 +1,1 @@
+Original data source: https://opendata.swiss/de/dataset/anteil-2-zi-wohnungen/resource/ab5f1799-4275-47c3-a14a-ba3d9291b9fb 

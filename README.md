@@ -34,7 +34,7 @@ In this repository, you will find two folders.
 
 ### Data Analysis
 
-For this part you can find more information [here]()
+For this part you can find more information [here](./data-analytics-workshop/README.md)
 
 ### Flat Size Percentage Application
 

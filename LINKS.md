@@ -18,3 +18,13 @@ This is a collection of potential usefull links about topics mentioned in the wo
 * **Official Page for React Bootstrap** - [https://react-bootstrap.github.io](https://react-bootstrap.github.io)
 * **Links to various React topics** - [https://github.com/markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
 * **Libraries around React** - [https://www.robinwieruch.de/essential-react-libraries-framework](https://www.robinwieruch.de/essential-react-libraries-framework)
+
+## Data analytics
+
+### Data Science Distribution
+
+* **Anaconda** - [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
+
+### Machine Learning
+
+* **scikit-learn** - [http://scikit-learn.org/stable/](http://scikit-learn.org/stable/)

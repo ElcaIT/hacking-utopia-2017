@@ -34,4 +34,5 @@ This is a collection of potential usefull links about topics mentioned in the wo
 
 ### Package finder
 
-* **PAckage API** - [https://service.post.ch/elwep-web/public/shipments/countByAvisNr.json?avisNr=<INSERT AVIS NUMBER>](https://service.post.ch/elwep-web/public/shipments/countByAvisNr.json?avisNr=<INSERT AVIS NUMBER>)
+* **Package API: count** - [https://service.post.ch/elwep-web/public/shipments/countByAvisNr.json?avisNr=<INSERT AVIS NUMBER>](https://service.post.ch/elwep-web/public/shipments/countByAvisNr.json?avisNr=<INSERT AVIS NUMBER>)
+* **Package API** - [https://serviceint2.post.ch/elwep-web/public/shipments/byAvisNr.json?avisNr=<INSERT AVIS NUMBER>](https://serviceint2.post.ch/elwep-web/public/shipments/byAvisNr.json?avisNr=<INSERT AVIS NUMBER>)

@@ -28,3 +28,10 @@ This is a collection of potential usefull links about topics mentioned in the wo
 ### Machine Learning
 
 * **scikit-learn** - [http://scikit-learn.org/stable/](http://scikit-learn.org/stable/)
+
+
+## Post API
+
+### Package finder
+
+* **PAckage API** - [https://service.post.ch/elwep-web/public/shipments/countByAvisNr.json?avisNr=<INSERT AVIS NUMBER>](https://service.post.ch/elwep-web/public/shipments/countByAvisNr.json?avisNr=<INSERT AVIS NUMBER>)
